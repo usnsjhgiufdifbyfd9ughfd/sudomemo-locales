@@ -7,10 +7,10 @@ msgid "GET_STARTED"
 msgstr "Get Started"
 
 msgid "WATCH_FLIPNOTES"
-msgstr "guarda i Flipnote"
+msgstr "Flipnote di tutti"
 
 msgid "CHANNELS"
-msgstr "Canali"
+msgstr "Lista dei cnali"
 
 msgid "CATEGORIES"
 msgstr "Categorie"
@@ -40,7 +40,7 @@ msgid "SEARCH_USER"
 msgstr "Cerca i Profili"
 
 msgid "SEARCH_FLIPNOTE"
-msgstr "Cerca i flipnote"
+msgstr "Cerca i Flipnote"
 
 msgid "RELOAD_USER"
 msgstr "Aggiorna profilo"
@@ -64,4 +64,4 @@ msgid "TEST_TRANSLATION"
 msgstr "Traduzione italiano"
 
 msgid "HELP"
-msgstr "aiuto"
+msgstr "Aiuto"
